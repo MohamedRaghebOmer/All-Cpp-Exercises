@@ -13,3 +13,6 @@
 [submodule "Cpp-Exercises-Course-8-"]
 	path = Cpp-Exercises-Course-8-
 	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-Course-8-.git
+[submodule "Cpp-Exercises-Course-10-"]
+	path = Cpp-Exercises-Course-10-
+	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-Course-10-.git
