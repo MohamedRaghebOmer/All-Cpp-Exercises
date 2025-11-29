@@ -1,18 +1,18 @@
-[submodule "Cpp-Exercises-level-1-Course-3-"]
-	path = Cpp-Exercises-level-1-Course-3-
-	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-level-1-Course-3-.git
-[submodule "Cpp-Exercises-Level-2-Course-5-"]
-	path = Cpp-Exercises-Level-2-Course-5-
-	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-Level-2-Course-5-.git
-[submodule "Improve-my-Cpp-knowledge-Course-6-"]
-	path = Improve-my-Cpp-knowledge-Course-6-
-	url = https://github.com/MohamedRaghebOmer/Improve-my-Cpp-knowledge-Course-6-.git
-[submodule "Cpp-Exercises-Course-7-"]
-	path = Cpp-Exercises-Course-7-
-	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-Course-7-.git
-[submodule "Cpp-Exercises-Course-8-"]
-	path = Cpp-Exercises-Course-8-
-	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-Course-8-.git
-[submodule "Cpp-Exercises-Course-10-"]
-	path = Cpp-Exercises-Course-10-
-	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-Course-10-.git
+[submodule "Cpp-Exercises-Level-1"]
+	path = Cpp-Exercises-Level-1
+	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-level-1.git
+[submodule "Cpp-Exercises-Level-2"]
+	path = Cpp-Exercises-Level-2
+	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-Level-2.git
+[submodule "Improve-my-Cpp-knowledge"]
+	path = Improve-my-Cpp-knowledge
+	url = https://github.com/MohamedRaghebOmer/Improve-my-Cpp-knowledge.git
+[submodule "Cpp-Exercises-Level-3"]
+	path = Cpp-Exercises-Level-3
+	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-Level-3-.git
+[submodule "Cpp-Exercises-Level-4"]
+	path = Cpp-Exercises-Level-4
+	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-Level-4.git
+[submodule "Cpp-Exercises-Level-5"]
+	path = Cpp-Exercises-Level-5
+	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-Level-5.git
