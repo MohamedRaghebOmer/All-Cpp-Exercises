@@ -16,3 +16,6 @@
 [submodule "Cpp-Exercises-Level-5"]
 	path = Cpp-Exercises-Level-5
 	url = https://github.com/MohamedRaghebOmer/Cpp-Exercises-Level-5.git
+[submodule "Advanced-Cpp-Exercises"]
+	path = Advanced-Cpp-Exercises
+	url = https://github.com/MohamedRaghebOmer/Advanced-Cpp-Exercises.git
