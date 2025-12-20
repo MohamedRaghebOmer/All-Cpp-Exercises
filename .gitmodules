@@ -25,3 +25,6 @@
 [submodule "StonePaperScissors-Game"]
 	path = StonePaperScissors-Game
 	url = https://github.com/MohamedRaghebOmer/StonePaperScissors-Game.git
+[submodule "MathGame"]
+	path = MathGame
+	url = https://github.com/MohamedRaghebOmer/MathGame.git
