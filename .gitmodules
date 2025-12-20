@@ -34,3 +34,6 @@
 [submodule "Implement-Functions-With-Cpp"]
 	path = Implement-Functions-With-Cpp
 	url = https://github.com/MohamedRaghebOmer/Implement-Functions-With-Cpp.git
+[submodule "Array-Practice-Problems"]
+	path = Array-Practice-Problems
+	url = https://github.com/MohamedRaghebOmer/Array-Practice-Problems.git
