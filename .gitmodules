@@ -28,3 +28,6 @@
 [submodule "MathGame"]
 	path = MathGame
 	url = https://github.com/MohamedRaghebOmer/MathGame.git
+[submodule "Cpp-Fundamentals"]
+	path = Cpp-Fundamentals
+	url = https://github.com/MohamedRaghebOmer/Cpp-Fundamentals.git
