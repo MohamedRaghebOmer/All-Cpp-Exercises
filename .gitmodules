@@ -22,3 +22,6 @@
 [submodule "Linked-List-Practice"]
 	path = Linked-List-Practice
 	url = https://github.com/MohamedRaghebOmer/Liked-List-Practice.git
+[submodule "StonePaperScissors-Game"]
+	path = StonePaperScissors-Game
+	url = https://github.com/MohamedRaghebOmer/StonePaperScissors-Game.git
