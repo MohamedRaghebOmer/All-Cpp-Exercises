@@ -31,3 +31,6 @@
 [submodule "Cpp-Fundamentals"]
 	path = Cpp-Fundamentals
 	url = https://github.com/MohamedRaghebOmer/Cpp-Fundamentals.git
+[submodule "Implement-Functions-With-Cpp"]
+	path = Implement-Functions-With-Cpp
+	url = https://github.com/MohamedRaghebOmer/Implement-Functions-With-Cpp.git
