@@ -19,3 +19,6 @@
 [submodule "Advanced-Cpp-Exercises"]
 	path = Advanced-Cpp-Exercises
 	url = https://github.com/MohamedRaghebOmer/Advanced-Cpp-Exercises.git
+[submodule "Linked-List-Practice"]
+	path = Linked-List-Practice
+	url = https://github.com/MohamedRaghebOmer/Liked-List-Practice.git
